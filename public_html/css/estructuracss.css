@@ -21,7 +21,7 @@ div{
 
 section>div:first-child{
     width: 70%;
-    height: 600px;
+    height: 550px;
     background-color: gainsboro;
 }
 
@@ -30,3 +30,4 @@ section>div:first-child>div:first-child{
     height: 25%;
     background-color: #669900;
 }
+
