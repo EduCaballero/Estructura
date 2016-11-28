@@ -31,3 +31,10 @@ section>div:first-child>div:first-child{
     background-color: #669900;
 }
 
+section>div:first-child>div:nth-child(2){
+   width: 100%;
+}
+
+section>div:first-child>div:nth-child(2)>div:first-child{
+    width: 75%;
+}
