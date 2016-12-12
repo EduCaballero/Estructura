@@ -20,6 +20,7 @@ section{
     height: 150px;
     display: block;
     top: 0;
+    z-index: 1;
 }
 
 #verdedown{
